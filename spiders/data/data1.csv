@@ -1,0 +1,865 @@
+link,market_cap,name,price,symbol,volume
+/currencies/airtoken/,49372050.0,AirToken,0.047021,AIR,590358.0
+/currencies/flixxo/,49101115.0,Flixxo,0.681413,FLIXX,713475.0
+/currencies/rialto/,46280700.0,Rialto,0.462807,XRL,107827.0
+/currencies/rubycoin/,44982488.0,Rubycoin,1.79,RBY,179832.0
+/currencies/newyorkcoin/,44209728.0,NewYorkCoin,0.000343,NYC,884115.0
+/currencies/incent/,44177088.0,Incent,0.960025,INCNT,557837.0
+/currencies/phore/,44079459.0,Phore,5.44,PHR,653840.0
+/currencies/alis/,44029635.0,ALIS,1.14,ALIS,495763.0
+/currencies/decent-bet/,44027933.0,DecentBet,0.484455,DBET,174999.0
+/currencies/fedoracoin/,43933168.0,FedoraCoin,9.9e-05,TIPS,136148.0
+/currencies/playkey/,43226627.0,Playkey,3.2,PKT,118654.0
+/currencies/primas/,42881690.0,Primas,0.837533,PST,837910.0
+/currencies/paragon/,42029266.0,Paragon,0.647235,PRG,114866.0
+/currencies/bcap/,41372800.0,BCAP,4.14,BCAP,12113.0
+/currencies/credo/,41132779.0,Credo,0.074802,CREDO,169788.0
+/currencies/posw-coin/,40033098.0,PoSW Coin,0.90778,POSW,438029.0
+/currencies/e-coin/,39147836.0,E-coin,7.94,ECN,2603.0
+/currencies/zoin/,39116636.0,Zoin,2.45,ZOI,718940.0
+/currencies/lampix/,38674500.0,Lampix,0.308601,PIX,408912.0
+/currencies/ormeus-coin/,37759454.0,Ormeus Coin,2.22,ORME,439204.0
+/currencies/heat-ledger/,37115835.0,HEAT,1.18,HEAT,59963.0
+/currencies/databits/,36384210.0,Databits,1.6,DTB,341450.0
+/currencies/divi/,36282523.0,Divi,7.05,DIVX,335415.0
+/currencies/quantum/,35958431.0,Quantum,0.468868,QAU,49917.0
+/currencies/chronobank/,35503581.0,Chronobank,50.0,TIME,708285.0
+/currencies/florincoin/,34294440.0,FlorinCoin,0.242988,FLO,621858.0
+/currencies/eccoin/,33692750.0,ECC,0.001348,ECC,190246.0
+/currencies/swarm-city/,33481215.0,Swarm City,4.18,SWT,653541.0
+/currencies/waves-community-token/,32824644.0,Waves Communi...,3.29,WCT,156652.0
+/currencies/investfeed/,32199705.0,InvestFeed,0.168249,IFT,205720.0
+/currencies/russian-mining-coin/,31995268.0,Russian Miner...,21231.1,RMC,32862.0
+/currencies/soarcoin/,31524072.0,Soarcoin,0.04065,SOAR,167025.0
+/currencies/open-trading-network/,31468309.0,Open Trading ...,8.76,OTN,89127.0
+/currencies/obits/,31101541.0,OBITS,1.98,OBITS,204660.0
+/currencies/oraclechain/,30700200.0,OracleChain,1.02,OCT,288154.0
+/currencies/bitqy/,30276092.0,bitqy,0.010392,BQ,7238.0
+/currencies/xenon/,30268200.0,Xenon,0.100894,XNN,9923.0
+/currencies/dovu/,29842950.0,Dovu,0.468041,DOVU,161051.0
+/currencies/energycoin/,29297141.0,Energycoin,0.241072,ENRG,349230.0
+/currencies/espers/,29265411.0,Espers,0.001402,ESP,234789.0
+/currencies/gambit/,29100123.0,Gambit,24.25,GAM,63613.0
+/currencies/maecenas/,29027087.0,Maecenas,0.962751,ART,24494.0
+/currencies/bismuth/,28945760.0,Bismuth,4.22,BIS,277032.0
+/currencies/blockcat/,28063479.0,BlockCAT,3.81,CAT,288550.0
+/currencies/bitsend/,28012101.0,BitSend,1.58,BSD,379887.0
+/currencies/dao-casino/,27991266.0,DAO.Casino,0.167341,BET,89932.0
+/currencies/boolberry/,27448444.0,Boolberry,2.56,BBR,56397.0
+/currencies/ethereum-blue/,27398310.0,BLUE,0.817623,BLUE,394077.0
+/currencies/bitmark/,27240155.0,Bitmark,3.54,BTM,142261.0
+/currencies/encrypgen/,27179382.0,EncrypGen,0.607855,DNA,123672.0
+/currencies/lockchain/,27177617.0,LockChain,1.94,LOC,244165.0
+/currencies/mybit-token/,27041204.0,MyBit Token,9.66,MYB,29584.0
+/currencies/curecoin/,26295215.0,Curecoin,1.1,CURE,436666.0
+/currencies/autonio/,26232709.0,Autonio,0.398503,NIO,206954.0
+/currencies/bitdice/,25951520.0,BitDice,0.370736,CSNO,106280.0
+/currencies/firstcoin/,25945178.0,FirstCoin,13.87,FRST,345518.0
+/currencies/b2bx/,25648308.0,B2B,1.57,B2B,26010.0
+/currencies/pluton/,25633010.0,Pluton,30.16,PLU,19648.0
+/currencies/sequence/,25121558.0,Sequence,0.554751,SEQ,485925.0
+/currencies/verify/,24908657.0,Verify,2.08,CRED,444739.0
+/currencies/bitcrystals/,24566457.0,Bitcrystals,1.06,BCY,278979.0
+/currencies/nvo/,24494400.0,NVO,1.63,NVST,27019.0
+/currencies/ecobit/,22867200.0,Ecobit,0.051451,ECOB,5176.0
+/currencies/leocoin/,22701425.0,LEOcoin,0.236541,LEO,45312.0
+/currencies/icos/,22368858.0,ICOS,38.75,ICOS,17390.0
+/currencies/hedge/,22306383.0,Hedge,6.01,HDG,127234.0
+/currencies/hubii-network/,22002734.0,Hubii Network,1.68,HBT,90552.0
+/currencies/sexcoin/,21957763.0,Sexcoin,0.174717,SXC,109035.0
+/currencies/target-coin/,21852837.0,Target Coin,0.022944,TGT,7982.0
+/currencies/etheroll/,20859164.0,Etheroll,2.98,DICE,17272.0
+/currencies/ufo-coin/,20842488.0,UFO Coin,0.005896,UFO,137205.0
+/currencies/payfair/,20580816.0,Payfair,0.27055,PFR,329503.0
+/currencies/photon/,20266100.0,Photon,0.000969,PHO,181122.0
+/currencies/unobtanium/,20094840.0,Unobtanium,101.47,UNO,40943.0
+/currencies/oxycoin/,19946796.0,Oxycoin,0.233288,OXY,146421.0
+/currencies/vsync-vsx/,19649893.0,Vsync,0.122781,VSX,94346.0
+/currencies/gcoin/,19528485.0,GCoin,0.000131,GCN,42966.0
+/currencies/internxt/,19289662.0,Internxt,30.64,INXT,207063.0
+/currencies/xaurum/,18867043.0,Xaurum,0.148435,XAUR,166735.0
+/currencies/the-champcoin/,18809779.0,The ChampCoin,0.11405,TCC,6807.0
+/currencies/synergy/,18766701.0,Synergy,5.65,SNRG,336706.0
+/currencies/universal-currency/,18765390.0,Universal Cur...,1.49,UNIT,105440.0
+/currencies/bitdeal/,18505127.0,Bitdeal,0.105392,BDL,238996.0
+/currencies/atmos/,18442389.0,Atmos,0.183772,ATMS,39836.0
+/currencies/hyperstake/,17991731.0,HyperStake,0.016347,HYP,148946.0
+/currencies/vslice/,17614221.0,vSlice,0.527522,VSL,25132.0
+/currencies/encryptotel/,17304406.0,EncryptoTel [...,0.278514,ETT,2684.0
+/currencies/trezarcoin/,17189581.0,TrezarCoin,0.200499,TZC,100079.0
+/currencies/zeitcoin/,17132032.0,Zeitcoin,0.000463,ZEIT,52506.0
+/currencies/monacocoin/,17058039.0,Monoeci,6.01,XMCC,225026.0
+/currencies/neutron/,16499538.0,Neutron,0.49737,NTRN,72879.0
+/currencies/bitzeny/,16481768.0,Bitzeny,0.217971,ZNY,251969.0
+/currencies/bitcoin-plus/,16314826.0,Bitcoin Plus,156.11,XBC,263291.0
+/currencies/real-estate-tokens/,16270269.0,REX,1.88,REX,21291.0
+/currencies/hush/,16266198.0,Hush,7.25,HUSH,308249.0
+/currencies/asiacoin/,16184828.0,AsiaCoin,0.013143,AC,15588.0
+/currencies/alqo/,16084778.0,ALQO,0.88618,ALQO,217524.0
+/currencies/novacoin/,15805030.0,Novacoin,8.12,NVC,305917.0
+/currencies/zephyr/,15276982.0,Zephyr,0.121255,ZEPH,31126.0
+/currencies/riecoin/,15109558.0,Riecoin,0.373602,RIC,213678.0
+/currencies/social/,14811396.0,Social,0.886166,SCL,165805.0
+/currencies/bitcloud/,14693439.0,Bitcloud,0.856839,BTDX,32916.0
+/currencies/mercury-protocol/,14316322.0,Mercury Protocol,0.084807,GMT,40817.0
+/currencies/masternodecoin/,14092054.0,Masternodecoin,0.302224,MTNC,35256.0
+/currencies/innova/,13990562.0,Innova,10.59,INN,254310.0
+/currencies/farad/,13949886.0,Farad,0.105726,FRD,29365.0
+/currencies/crave/,13941090.0,Crave,9.43,CRAVE,53170.0
+/currencies/privatix/,13602217.0,Privatix,11.5,PRIX,57587.0
+/currencies/dnotes/,13559193.0,DNotes,0.103828,NOTE,30992.0
+/currencies/pirl/,13412481.0,Pirl,1.84,PIRL,129008.0
+/currencies/force/,13269320.0,FORCE,0.125134,FOR,48530.0
+/currencies/bitcoinz/,12975450.0,BitcoinZ,0.015229,BTCZ,159703.0
+/currencies/toacoin/,12801271.0,ToaCoin,0.009617,TOA,58577.0
+/currencies/prizm/,12229695.0,PRIZM,0.953304,PZM,6555.0
+/currencies/greencoin/,12120875.0,Greencoin,0.00329,GRE,5049.0
+/currencies/chips/,12039209.0,CHIPS,0.589623,CHIPS,4758.0
+/currencies/hellogold/,11914839.0,HelloGold,0.045298,HGT,47811.0
+/currencies/quark/,11871819.0,Quark,0.046782,QRK,173520.0
+/currencies/sharechain/,11848076.0,Sharechain,0.006794,SSS,40392.0
+/currencies/real/,11847864.0,REAL,1.18,REAL,38891.0
+/currencies/blockpool/,11723443.0,Blockpool,0.525859,BPL,14586.0
+/currencies/project-decorum/,11682950.0,Project Decorum,0.233659,PDC,121565.0
+/currencies/cvcoin/,11593042.0,CVCoin,1.18,CVCOIN,13158.0
+/currencies/anoncoin/,11376381.0,Anoncoin,5.39,ANC,48151.0
+/currencies/worldcoin/,11319822.0,WorldCoin,0.096146,WDC,127768.0
+/currencies/dcorp/,10810754.0,DCORP,1.34,DRP,82379.0
+/currencies/astro/,10772775.0,Astro,3.25,ASTRO,28037.0
+/currencies/flypme/,10741463.0,FlypMe,0.608972,FYP,45589.0
+/currencies/adshares/,10690511.0,AdShares,0.715561,ADST,57786.0
+/currencies/putincoin/,10657452.0,PutinCoin,0.033706,PUT,37421.0
+/currencies/creativecoin/,10578123.0,Creativecoin,0.808057,CREA,45054.0
+/currencies/intensecoin/,10537933.0,IntenseCoin,0.03265,ITNS,50496.0
+/currencies/pure/,10202097.0,Pure,3.39,PURE,115600.0
+/currencies/huntercoin/,10147630.0,HunterCoin,0.48804,HUC,129808.0
+/currencies/opus/,9845617.0,Opus,0.070285,OPT,94643.0
+/currencies/terracoin/,9656614.0,Terracoin,0.438896,TRC,132921.0
+/currencies/evergreencoin/,9341362.0,EverGreenCoin,0.701235,EGC,161326.0
+/currencies/audiocoin/,9034804.0,AudioCoin,0.010771,ADC,69701.0
+/currencies/goodomy/,8909416.0,Goodomy,0.020141,GOOD,7149.0
+/currencies/embers/,8784800.0,Embers,0.175696,MBRS,63474.0
+/currencies/chaincoin/,8701471.0,ChainCoin,0.604034,CHC,86135.0
+/currencies/yocoin/,8530439.0,Yocoin,0.07796,YOC,55897.0
+/currencies/rupee/,8478983.0,Rupee,0.372206,RUP,89586.0
+/currencies/martexcoin/,8410330.0,MarteXcoin,2.96,MXT,6503.0
+/currencies/zrcoin/,8400468.0,ZrCoin,2.21,ZRC,76262.0
+/currencies/ixcoin/,8337436.0,Ixcoin,0.397038,IXC,9760.0
+/currencies/atlant/,8278152.0,ATLANT,0.625946,ATL,89815.0
+/currencies/bonpay/,8272133.0,Bonpay,0.732676,BON,36332.0
+/currencies/bluecoin/,8157577.0,BlueCoin,0.014195,BLU,25790.0
+/currencies/bunnycoin/,8052639.0,BunnyCoin,7.9e-05,BUN,18572.0
+/currencies/equitrader/,7680286.0,EquiTrader,0.768068,EQT,43328.0
+/currencies/cryptoforecast/,7671374.0,CryptoForecast,0.166769,CFT,42473.0
+/currencies/e-gulden/,7525591.0,e-Gulden,0.461585,EFL,122777.0
+/currencies/eltcoin/,7519509.0,ELTCOIN,0.08355,ELTCOIN,127046.0
+/currencies/noblecoin/,7077431.0,NobleCoin,0.003051,NOBL,133570.0
+/currencies/cryptogenic-bullion/,6830483.0,Crypto Bullion,6.78,CBX,17848.0
+/currencies/primalbase/,6795400.0,Primalbase Token,6795.4,PBT,66726.0
+/currencies/incakoin/,6750858.0,IncaKoin,0.000569,NKA,1966.0
+/currencies/darcrus/,6619445.0,Darcrus,0.48671,DAR,56260.0
+/currencies/bata/,6410019.0,Bata,1.28,BTA,112683.0
+/currencies/ebtcnew/,6363796.0,eBitcoin,0.33676,EBTC,80576.0
+/currencies/ongsocial/,6337479.0,onG.social,0.465695,ONG,3584.0
+/currencies/interstellar-holdings/,6309296.0,Interstellar ...,0.066081,HOLD,109142.0
+/currencies/ergo/,6227280.0,Ergo,15.67,EFYT,6644.0
+/currencies/student-coin/,6203643.0,bitJob,0.129664,STU,93257.0
+/currencies/rustbits/,6170733.0,Rustbits,0.174804,RUSTBITS,4822.0
+/currencies/ethbits/,5851276.0,Ethbits,4.2,ETBS,27383.0
+/currencies/unify/,5782404.0,Unify,0.324627,UNIFY,89307.0
+/currencies/smartbillions/,5780822.0,SmartBillions,0.821225,SMART,41642.0
+/currencies/adelphoi/,5738888.0,Adelphoi,0.244497,ADL,3332.0
+/currencies/digipulse/,5436512.0,DigiPulse,3.88,DGPT,19708.0
+/currencies/starta/,5392418.0,Starta,1.04,STA,27969.0
+/currencies/oceanlab/,5387909.0,Oceanlab,0.115869,OCL,26801.0
+/currencies/unitus/,5131380.0,Unitus,0.109678,UIS,68801.0
+/currencies/flik/,5126981.0,FLiK,0.085274,FLIK,56075.0
+/currencies/carboncoin/,5086783.0,Carboncoin,0.00033,CARBON,31946.0
+/currencies/altcoin-alt/,5076700.0,Altcoin,41.55,ALT,4719.0
+/currencies/draftcoin/,5025004.0,DraftCoin,2.18,DFT,34968.0
+/currencies/inflationcoin/,4997929.0,InflationCoin,0.000141,IFLT,28261.0
+/currencies/litedoge/,4898987.0,LiteDoge,0.000328,LDOGE,24201.0
+/currencies/condensate/,4802160.0,Condensate,0.04899,RAIN,71374.0
+/currencies/cartaxi-token/,4800266.0,CarTaxi Token,0.079219,CTX,12422.0
+/currencies/gimli/,4703016.0,Gimli,0.058788,GIM,5002.0
+/currencies/kilocoin/,4665355.0,KiloCoin,0.023767,KLC,5919.0
+/currencies/mazacoin/,4641372.0,MazaCoin,0.003439,MZC,20360.0
+/currencies/dinastycoin/,4613873.0,Dinastycoin,0.003214,DCY,36341.0
+/currencies/ico-openledger/,4562915.0,ICO OpenLedger,9.79,ICOO,4606.0
+/currencies/bitradio/,4562874.0,Bitradio,0.760314,BRO,12037.0
+/currencies/fundyourselfnow/,4394194.0,FundYourselfNow,5.17,FYN,4218.0
+/currencies/piplcoin/,4260247.0,PiplCoin,0.051055,PIPL,1290.0
+/currencies/renos/,4224147.0,Renos,0.126638,RNS,11921.0
+/currencies/russiacoin/,4211523.0,RussiaCoin,0.502696,RC,1589.0
+/currencies/fastcoin/,4191566.0,Fastcoin,0.026713,FST,66076.0
+/currencies/luckchain/,4156961.0,LuckChain,0.005807,BASH,8132.0
+/currencies/neverdie/,4147616.0,NEVERDIE,0.101151,NDC,3768.0
+/currencies/intelligent-trading-tech/,3825913.0,Intelligent T...,0.390483,ITT,938.0
+/currencies/arcticcoin/,3798092.0,ArcticCoin,0.154294,ARC,28230.0
+/currencies/nekonium/,3790145.0,Nekonium,0.421665,NUKO,23968.0
+/currencies/accelerator-network/,3731275.0,Accelerator N...,15.52,ACC,9542.0
+/currencies/digitalprice/,3659564.0,DigitalPrice,0.204633,DP,71013.0
+/currencies/octanox/,3551215.0,Octanox,0.41779,OTX,26142.0
+/currencies/zetacoin/,3548680.0,Zetacoin,0.021201,ZET,70126.0
+/currencies/digitalcoin/,3540478.0,Digitalcoin,0.127718,DGC,19510.0
+/currencies/moin/,3521073.0,Moin,0.479103,MOIN,64323.0
+/currencies/fantomcoin/,3441312.0,Fantomcoin,0.555931,FCN,3601.0
+/currencies/elementrem/,3399973.0,Elementrem,0.131402,ELE,7132.0
+/currencies/starcredits/,3390926.0,StarCredits,0.753539,STRC,5504.0
+/currencies/growers-international/,3373377.0,Growers Inter...,2.88,GRWI,54574.0
+/currencies/i0coin/,3355173.0,I0Coin,0.159872,I0C,7275.0
+/currencies/erc20/,3313444.0,ERC20,0.002104,ERC20,37093.0
+/currencies/visio/,3244837.0,Visio,0.063759,VISIO,25118.0
+/currencies/biblepay/,3211545.0,BiblePay,0.009771,BBP,1018.0
+/currencies/version/,3193179.0,Version,0.006739,V,8017.0
+/currencies/bowhead/,3187056.0,Bowhead,0.398382,AHT,737.0
+/currencies/titcoin/,3076089.0,Titcoin,0.061647,TIT,35682.0
+/currencies/cream/,2993910.0,Cream,0.066631,CRM,14162.0
+/currencies/kurrent/,2961098.0,Kurrent,0.048254,KURT,16848.0
+/currencies/insanecoin-insn/,2959373.0,InsaneCoin,0.160992,INSN,22615.0
+/currencies/ultracoin/,2903856.0,UltraCoin,0.06469,UTC,4830.0
+/currencies/zennies/,2869951.0,Zennies,0.002868,ZENI,10820.0
+/currencies/woodcoin/,2852116.0,Woodcoin,0.354953,LOG,814.0
+/currencies/the-cypherfunks/,2826186.0,The Cypherfunks,6.1e-05,FUNK,3415.0
+/currencies/adzcoin/,2825633.0,Adzcoin,0.064899,ADZ,18280.0
+/currencies/canada-ecoin/,2798651.0,Canada eCoin,0.028729,CDN,14847.0
+/currencies/smileycoin/,2788001.0,SmileyCoin,0.000107,SMLY,13693.0
+/currencies/smart-investment-fund-token/,2678857.0,Smart Investm...,3.71,SIFT,891.0
+/currencies/kekcoin/,2644892.0,KekCoin,0.252359,KEK,34306.0
+/currencies/wavesgo/,2599445.0,WavesGo,0.272722,WGO,12011.0
+/currencies/swaptoken/,2580967.0,SwapToken,0.000168,TOKEN,9329.0
+/currencies/procurrency/,2575500.0,ProCurrency,0.026716,PROC,33906.0
+/currencies/desire/,2555714.0,Desire,2.52,DSR,26814.0
+/currencies/machinecoin/,2514168.0,Machinecoin,0.123733,MAC,9986.0
+/currencies/bitcoin-scrypt/,2513688.0,Bitcoin Scrypt,0.151798,BTCS,34095.0
+/currencies/42-coin/,2496466.0,42-coin,59439.7,42,13142.0
+/currencies/aurumcoin/,2489039.0,AurumCoin,8.38,AU,3058.0
+/currencies/etheriya/,2472392.0,Etheriya,1.56,RIYA,3121.0
+/currencies/tracto/,2427616.0,Tracto,0.39841,TRCT,13847.0
+/currencies/bitstar/,2408486.0,Bitstar,0.104355,BITS,2082.0
+/currencies/teslacoin/,2382417.0,TeslaCoin,0.032291,TES,4442.0
+/currencies/blockpay/,2182578.0,BlockPay,0.402074,BLOCKPAY,978.0
+/currencies/triangles/,2158163.0,Triangles,29.61,TRI,22065.0
+/currencies/emphy/,2151925.0,Emphy,0.28178,EPY,3242.0
+/currencies/monster-byte/,2139516.0,Monster Byte,0.12718,MBI,2364.0
+/currencies/netko/,2076682.0,Netko,0.456189,NETKO,7879.0
+/currencies/kobocoin/,2071276.0,Kobocoin,0.083857,KOBO,4148.0
+/currencies/piggycoin/,2054437.0,Piggycoin,0.004212,PIGGY,34893.0
+/currencies/whalecoin/,2019903.0,WhaleCoin,0.378881,WHL,10644.0
+/currencies/goldblocks/,1968852.0,GoldBlocks,0.128612,GB,18935.0
+/currencies/popularcoin/,1957884.0,PopularCoin,0.000576,POP,2413.0
+/currencies/hodlcoin/,1938014.0,HOdlcoin,0.011792,HODL,1524.0
+/currencies/smartcoin/,1907718.0,SmartCoin,0.080308,SMC,4247.0
+/currencies/trollcoin/,1901402.0,Trollcoin,0.003351,TROLL,5273.0
+/currencies/centurion/,1874267.0,Centurion,0.02537,CNT,3240.0
+/currencies/signatum/,1868393.0,Signatum,0.017304,SIGT,10513.0
+/currencies/maxcoin/,1863252.0,MaxCoin,0.030323,MAX,1865.0
+/currencies/hitcoin/,1852484.0,HitCoin,0.000168,HTC,7281.0
+/currencies/808coin/,1847395.0,808Coin,0.000464,808,1854.0
+/currencies/happycoin/,1832104.0,Happycoin,0.137858,HPC,13076.0
+/currencies/minereum/,1783060.0,Minereum,0.967819,MNE,31088.0
+/currencies/lottocoin/,1768715.0,LottoCoin,0.000122,LOT,5451.0
+/currencies/pascal-lite/,1763919.0,Pascal Lite,0.377527,PASL,12885.0
+/currencies/deutsche-emark/,1758239.0,Deutsche eMark,0.05274,DEM,13992.0
+/currencies/orbitcoin/,1753211.0,Orbitcoin,0.562838,ORB,1808.0
+/currencies/hicoin/,1725403.0,HiCoin,0.009094,XHI,22126.0
+/currencies/platinumbar/,1661634.0,PlatinumBAR,3.46,XPTX,6723.0
+/currencies/altcommunity-coin/,1644711.0,AltCommunity ...,9.26,ALTCOM,19124.0
+/currencies/eternity/,1632303.0,Eternity,0.396222,ENT,24052.0
+/currencies/supercoin/,1627946.0,SuperCoin,0.034053,SUPER,10826.0
+/currencies/bitbar/,1619018.0,BitBar,45.35,BTB,1935.0
+/currencies/nyancoin/,1614803.0,Nyancoin,0.005063,NYAN,6655.0
+/currencies/bitpark-coin/,1610918.0,Bitpark Coin,0.021479,BPC,2310.0
+/currencies/colossuscoin-v2/,1589502.0,Colossuscoin V2,0.000674,CV2,6152.0
+/currencies/metalcoin/,1568058.0,MetalCoin,0.020384,METAL,1266.0
+/currencies/digital-developers-fund/,1567517.0,DigitalDevelo...,0.306257,DDF,17208.0
+/currencies/gaia/,1563182.0,GAIA,0.064859,GAIA,574.0
+/currencies/ammo-rewards/,1546121.0,Ammo Reloaded,0.019879,AMMO,30164.0
+/currencies/cannacoin/,1545392.0,CannaCoin,0.32878,CCN,19542.0
+/currencies/hobonickels/,1538674.0,HoboNickels,0.025775,HBN,10340.0
+/currencies/shadowcash/,1515162.0,ShadowCash,0.226308,SDC,1028.0
+/currencies/purevidz/,1488862.0,PureVidz,0.011884,VIDZ,2013.0
+/currencies/dashcoin/,1462608.0,Dashcoin,0.083221,DSH,3272.0
+/currencies/spacecoin/,1458724.0,SpaceCoin,0.06865,SPACE,5567.0
+/currencies/truckcoin/,1453677.0,Truckcoin,0.008933,TRK,3902.0
+/currencies/phoenixcoin/,1430159.0,Phoenixcoin,0.022627,PXC,10746.0
+/currencies/swagbucks/,1424351.0,SwagBucks,4.23,BUCKS,24203.0
+/currencies/ethbet/,1416261.0,EthBet,0.16657,EBET,11653.0
+/currencies/fincoin/,1405037.0,FinCoin,0.109098,FNC,2429.0
+/currencies/goldreserve/,1398302.0,GoldReserve,0.081432,XGR,3694.0
+/currencies/opal/,1360606.0,Opal,0.089841,OPAL,5402.0
+/currencies/chesscoin/,1307031.0,ChessCoin,0.02419,CHESS,3235.0
+/currencies/macron/,1303371.0,MACRON,0.003247,MCRN,1791.0
+/currencies/veltor/,1299371.0,Veltor,2.34,VLT,793.0
+/currencies/coin2-1/,1279227.0,Coin2.1,0.012795,C2,3800.0
+/currencies/trackr/,1267221.0,CryptoInsight,0.101137,TKR,11433.0
+/currencies/btsr/,1258192.0,BTSR,0.383097,BTSR,1592.0
+/currencies/fucktoken/,1255230.0,FuckToken,0.024424,FUCK,7228.0
+/currencies/fujinto/,1220695.0,Fujinto,0.018551,NTO,17422.0
+/currencies/coin/,1204811.0,Coin(O),0.011456,CNO,3138.0
+/currencies/joulecoin/,1194893.0,Joulecoin,0.034437,XJO,6323.0
+/currencies/roulettetoken/,1159880.0,RouletteToken,0.113522,RLT,15065.0
+/currencies/kushcoin/,1149150.0,KushCoin,0.210272,KUSH,3935.0
+/currencies/ratecoin/,1148726.0,Ratecoin,0.009857,XRA,12133.0
+/currencies/unity-ingot/,1145599.0,Unity Ingot,0.005671,UNY,13030.0
+/currencies/litebar/,1131375.0,LiteBar,1.35,LTB,5080.0
+/currencies/ccore/,1125445.0,Ccore,0.937871,CCO,7879.0
+/currencies/blakecoin/,1116466.0,Blakecoin,0.073827,BLC,11224.0
+/currencies/iticoin/,1076925.0,iTicoin,33.65,ITI,5892.0
+/currencies/halcyon/,1070524.0,Halcyon,0.198282,HAL,1711.0
+/currencies/globalboost-y/,1051606.0,GlobalBoost-Y,0.078223,BSTY,5674.0
+/currencies/starcash-network/,1048912.0,StarCash Network,1.26,STARS,3653.0
+/currencies/paycon/,992982.0,PayCon,0.043093,CON,13990.0
+/currencies/c-bit/,986221.0,C-Bit,0.006257,XCT,13167.0
+/currencies/emerald/,967755.0,Emerald Crypto,0.050622,EMD,11238.0
+/currencies/sterlingcoin/,965039.0,Sterlingcoin,0.228746,SLG,15075.0
+/currencies/network-token/,952622.0,Network Token,0.081621,NTWK,5559.0
+/currencies/prime-xi/,952245.0,Prime-XI,0.051859,PXI,8878.0
+/currencies/guncoin/,937263.0,Guncoin,0.00471,GUN,13269.0
+/currencies/chronos/,935065.0,Chronos,0.012682,CRX,4943.0
+/currencies/mineum/,932539.0,Mineum,0.098824,MNM,2422.0
+/currencies/pakcoin/,918347.0,Pakcoin,0.019868,PAK,5382.0
+/currencies/gapcoin/,917144.0,Gapcoin,0.07487,GAP,6317.0
+/currencies/newbium/,911425.0,Newbium,0.018229,NEWB,1507.0
+/currencies/bittokens/,910434.0,BitTokens,1.59,BXT,700.0
+/currencies/zozocoin/,908638.0,ZoZoCoin,1.69,ZZC,14325.0
+/currencies/unicoin/,907788.0,UniCoin,0.304919,UNIC,1136.0
+/currencies/berncash/,903344.0,BERNcash,0.012681,BERN,8194.0
+/currencies/universe/,895959.0,Universe,0.067386,UNI,677.0
+/currencies/sovereign-hero/,890036.0,Sovereign Hero,186.47,HERO,2338.0
+/currencies/amsterdamcoin/,889513.0,AmsterdamCoin,0.02656,AMS,13580.0
+/currencies/mincoin/,870633.0,Mincoin,0.213012,MNC,847.0
+/currencies/jetcoin/,869787.0,Jetcoin,0.126494,JET,1163.0
+/currencies/bit20/,867433.0,Bit20,853773.0,BTWTY,5635.0
+/currencies/mojocoin/,855888.0,MojoCoin,0.07045,MOJO,12978.0
+/currencies/abjcoin/,836825.0,Abjcoin,0.101247,ABJ,800.0
+/currencies/marscoin/,832595.0,Marscoin,0.029442,MARS,9487.0
+/currencies/ripto-bux/,821057.0,Ripto Bux,0.002154,RBX,10662.0
+/currencies/digicube/,818441.0,DigiCube,0.000337,CUBE,10242.0
+/currencies/elcoin-el/,813650.0,Elcoin,0.072589,EL,2286.0
+/currencies/corgicoin/,813128.0,CorgiCoin,0.00065,CORG,1176.0
+/currencies/grimcoin/,790820.0,Grimcoin,0.023585,GRIM,940.0
+/currencies/bolivarcoin/,786566.0,Bolivarcoin,0.090416,BOLI,1784.0
+/currencies/tattoocoin/,777583.0,Tattoocoin (S...,0.008599,TSE,2857.0
+/currencies/marijuanacoin/,776409.0,Marijuanacoin,0.479044,MAR,10115.0
+/currencies/darsek/,772300.0,Darsek,0.048349,KED,2018.0
+/currencies/yenten/,750056.0,YENTEN,0.335074,YTN,11530.0
+/currencies/bitcurrency/,742852.0,Bitcurrency,0.00438,BTCR,643.0
+/currencies/sativacoin/,741623.0,Sativacoin,0.104631,STV,909.0
+/currencies/blazecoin/,734772.0,BlazeCoin,0.001207,BLZ,709.0
+/currencies/tigercoin/,733438.0,Tigercoin,0.016846,TGC,906.0
+/currencies/aricoin/,709201.0,Aricoin,0.005056,ARI,2747.0
+/currencies/votecoin/,702170.0,VoteCoin,0.042621,VOT,1627.0
+/currencies/scorecoin/,700384.0,Scorecoin,0.023079,SCORE,4063.0
+/currencies/secretcoin/,698133.0,SecretCoin,0.165095,SCRT,1240.0
+/currencies/evil-coin/,690686.0,Evil Coin,0.032858,EVIL,557.0
+/currencies/grantcoin/,678892.0,Grantcoin,0.015629,GRT,6851.0
+/currencies/paycoin2/,676026.0,PayCoin,0.05711,XPY,3887.0
+/currencies/motocoin/,670998.0,Motocoin,0.036594,MOTO,4912.0
+/currencies/iethereum/,660301.0,iEthereum,0.03672,IETH,3022.0
+/currencies/postcoin/,659849.0,PostCoin,0.041583,POST,9906.0
+/currencies/octocoin/,649261.0,OctoCoin,0.01268,888,1469.0
+/currencies/ebitcoin-cash/,636438.0,eBitcoinCash,0.068541,EBCH,7276.0
+/currencies/catcoin/,608543.0,Catcoin,0.097204,CAT,5481.0
+/currencies/virtacoinplus/,607628.0,Virtacoinplus,0.0556,XVP,6390.0
+/currencies/cannation/,602160.0,Cannation,0.243111,CNNC,3489.0
+/currencies/bitasean/,590880.0,BitAsean,0.118176,BAS,10207.0
+/currencies/quatloo/,578657.0,Quatloo,0.074966,QTL,3789.0
+/currencies/hexx/,571888.0,Hexx,0.380692,HXX,11202.0
+/currencies/icoin/,567581.0,iCoin,0.019373,ICN,2303.0
+/currencies/wyvern/,564800.0,Wyvern,0.303909,WYV,1198.0
+/currencies/dalecoin/,564373.0,Dalecoin,1.23,DALC,9360.0
+/currencies/shadow-token/,560149.0,Shadow Token,0.080021,SHDW,1016.0
+/currencies/swing/,549088.0,Swing,0.191086,SWING,1474.0
+/currencies/tekcoin/,512472.0,TEKcoin,0.000362,TEK,7993.0
+/currencies/philosopher-stones/,506599.0,Philosopher S...,0.084232,PHS,1219.0
+/currencies/zurcoin/,502056.0,Zurcoin,0.005728,ZUR,5889.0
+/currencies/helleniccoin/,497320.0,Helleniccoin,0.007714,HNC,1519.0
+/currencies/advanced-internet-blocks/,496837.0,Advanced Inte...,0.020808,AIB,501.0
+/currencies/sproutsextreme/,482920.0,SproutsExtreme,0.000168,SPEX,2860.0
+/currencies/islacoin/,460538.0,IslaCoin,0.304246,ISL,616.0
+/currencies/bitgem/,458753.0,Bitgem,7.68,BTG,5140.0
+/currencies/gameunits/,445677.0,GameUnits,0.128327,UNITS,4413.0
+/currencies/bitsilver/,438320.0,bitSilver,21.27,BITSILVER,3341.0
+/currencies/remicoin/,420243.0,Remicoin,0.212327,RMC,726.0
+/currencies/leacoin/,420086.0,LeaCoin,0.001307,LEA,617.0
+/currencies/parallelcoin/,416744.0,ParallelCoin,1.33,DUO,1234.0
+/currencies/ereal/,411265.0,eREAL,0.006009,EREAL,1685.0
+/currencies/eaglecoin/,403398.0,EagleCoin,0.192698,EAGLE,7311.0
+/currencies/goldpieces/,389192.0,GoldPieces,0.318968,GP,2180.0
+/currencies/neuro/,381774.0,Neuro,0.008929,NRO,4843.0
+/currencies/bumbacoin/,379963.0,BumbaCoin,0.016846,BUMBA,4145.0
+/currencies/flaxscript/,372180.0,Flaxscript,0.066543,FLAX,5687.0
+/currencies/cachecoin/,370461.0,CacheCoin,0.088307,CACH,2039.0
+/currencies/acoin/,359696.0,Acoin,0.294812,ACOIN,991.0
+/currencies/gpu-coin/,355712.0,GPU Coin,0.008788,GPU,4263.0
+/currencies/soilcoin/,351826.0,SOILcoin,0.061702,SOIL,6905.0
+/currencies/independent-money-system/,348717.0,Independent M...,0.064951,IMS,1887.0
+/currencies/metal-music-coin/,342984.0,Metal Music Coin,0.004302,MTLMC3,6018.0
+/currencies/aquariuscoin/,340775.0,AquariusCoin,0.222059,ARCO,1540.0
+/currencies/revolvercoin/,339805.0,RevolverCoin,0.015162,XRE,3634.0
+/currencies/bolenum/,336145.0,Bolenum,0.033614,BLN,6425.0
+/currencies/rasputin-online-coin/,325577.0,Rasputin Onli...,0.300448,ROC,1048.0
+/currencies/compucoin/,323834.0,CompuCoin,0.016509,CPN,3961.0
+/currencies/rupaya/,304983.0,Rupaya,0.049697,RUPX,510.0
+/currencies/creatio/,296983.0,Creatio,0.014472,XCRE,1880.0
+/currencies/ronpaulcoin/,288230.0,RonPaulCoin,0.319805,RPC,612.0
+/currencies/benjirolls/,287077.0,BenjiRolls,0.014158,BENJI,4974.0
+/currencies/mustangcoin/,282128.0,MustangCoin,0.447579,MST,3059.0
+/currencies/jin-coin/,282049.0,Jin Coin,0.028639,JIN,2690.0
+/currencies/tychocoin/,281013.0,Tychocoin,0.05593,TYCHO,3230.0
+/currencies/tajcoin/,277790.0,TajCoin,0.034247,TAJ,1896.0
+/currencies/aerium/,274002.0,Aerium,0.180088,AERM,4994.0
+/currencies/bipcoin/,271668.0,BipCoin,0.166948,BIP,1652.0
+/currencies/beatcoin/,269249.0,Beatcoin,0.176593,XBTS,3284.0
+/currencies/fuzzballs/,268617.0,FuzzBalls,0.055615,FUZZ,3688.0
+/currencies/doubloon/,262471.0,BOAT,0.014151,BOAT,891.0
+/currencies/allion/,262421.0,Allion,0.04233,ALL,1403.0
+/currencies/bitcoin-planet/,246964.0,Bitcoin Planet,0.042116,BTPL,1917.0
+/currencies/solarflarecoin/,241376.0,Solarflarecoin,0.017139,SFC,4663.0
+/currencies/nevacoin/,238478.0,NevaCoin,0.09458,NEVA,1674.0
+/currencies/gold-pressed-latinum/,230771.0,Gold Pressed ...,0.899597,GPL,775.0
+/currencies/cthulhu-offerings/,208078.0,Cthulhu Offer...,0.079347,OFF,501.0
+/currencies/zetamicron/,202273.0,ZetaMicron,0.000337,ZMC,3653.0
+/currencies/boostcoin/,199722.0,BoostCoin,0.016846,BOST,751.0
+/currencies/iconic/,198164.0,Iconic,0.334232,ICON,2324.0
+/currencies/usde/,191078.0,USDe,0.000168,USDE,1471.0
+/currencies/ether-for-the-rest-of-the-world/,190436.0,E4ROW,0.03305,E4ROW,3371.0
+/currencies/digital-rupees/,172104.0,Digital Rupees,0.000337,DRS,1302.0
+/currencies/allsafe/,154848.0,AllSafe,0.019284,ASAFE2,691.0
+/currencies/healthywormcoin/,151414.0,HealthyWormCoin,0.001348,WORM,812.0
+/currencies/braincoin/,120738.0,Braincoin,0.011961,BRAIN,537.0
+/currencies/blackstar/,106266.0,Blackstar,0.000168,BSTAR,718.0
+/currencies/artex-coin/,106100.0,Artex Coin,0.005649,ATX,782.0
+/currencies/vault-coin/,104055.0,Vault Coin,0.003424,VLTC,1798.0
+/currencies/ride-my-car/,102369.0,Ride My Car,0.001011,RIDE,1325.0
+/currencies/dollar-online/,95238.0,Dollar Online,0.126348,DOLLAR,688.0
+/currencies/cryptoworldx-token/,90410.0,CryptoWorldX ...,0.001516,CWXT,849.0
+/currencies/roofs/,87601.0,Roofs,0.000674,ROOFS,663.0
+/currencies/litecred/,76894.0,Litecred,0.002544,LTCR,744.0
+/currencies/jobscoin/,71442.0,JobsCoin,0.000674,JOBS,679.0
+/currencies/futurexe/,49733.0,FuturXe,0.211253,FXE,585.0
+/currencies/socialcoin-socc/,32429.0,SocialCoin,0.023416,SOCC,532.0
+/currencies/virtacoin/,20335874.0,Virtacoin,0.00391,VTA,0.0
+/currencies/tao/,16428485.0,Tao,0.502243,XTO,0.0
+/currencies/arcade-token/,12060949.0,Arcade Token,8.01,ARC,0.0
+/currencies/prospectors-gold/,9279486.0,Prospectors Gold,0.143868,PGL,0.0
+/currencies/thegcccoin/,6171406.0,TheGCCcoin,0.011961,GCC,0.0
+/currencies/yashcoin/,4361659.0,YashCoin,0.436153,YASH,0.0
+/currencies/inpay/,4149260.0,InPay,0.414926,INPAY,0.0
+/currencies/fimkrypto/,3967397.0,FIMKrypto,0.006876,FIMK,0.0
+/currencies/cryptcoin/,2749156.0,CryptCoin,0.452913,CRYPT,0.0
+/currencies/shorty/,2425880.0,Shorty,0.024259,SHORTY,0.0
+/currencies/casino/,2254470.0,Casino,2.25,CASINO,0.0
+/currencies/britcoin/,2217667.0,BritCoin,0.104272,BRIT,0.0
+/currencies/bankcoin/,2174149.0,Bankcoin,0.211251,B@,0.0
+/currencies/ethereum-movie-venture/,2084542.0,Ethereum Movi...,0.317443,EMV,0.0
+/currencies/janus/,1783922.0,Janus,0.077493,JNS,0.0
+/currencies/link-platform/,1764888.0,Link Platform,37.15,LNK,0.0
+/currencies/interzone/,1217759.0,Interzone,0.499142,ITZ,0.0
+/currencies/stress/,1047250.0,Stress,0.001853,STS,0.0
+/currencies/valorbit/,952745.0,Valorbit,0.000168,VAL,0.0
+/currencies/ultimate-secure-cash/,918266.0,Ultimate Secu...,0.08878,USC,0.0
+/currencies/ganjacoin/,889151.0,GanjaCoin,0.199723,MRJA,0.0
+/currencies/joincoin/,848723.0,Joincoin,0.279324,J,0.0
+/currencies/ambercoin/,802436.0,AmberCoin,0.018363,AMBER,0.0
+/currencies/briacoin/,737185.0,BriaCoin,1.15,BRIA,0.0
+/currencies/globalcoin/,669717.0,GlobalCoin,0.010276,GLC,0.0
+/currencies/bitz/,635982.0,Bitz,0.319446,BITZ,0.0
+/currencies/mutual-coin/,575895.0,Mutual Coin,0.000266,MUT,0.0
+/currencies/mao-zedong/,554465.0,Mao Zedong,0.088949,MAO,0.0
+/currencies/prototanium/,539633.0,Prototanium,2.75,PR,0.0
+/currencies/wayguide/,539303.0,WayGuide,0.005391,WAY,0.0
+/currencies/shilling/,531428.0,Shilling,0.01314,SH,0.0
+/currencies/virtualcoin/,483209.0,VirtualCoin,0.048012,VC,0.0
+/currencies/px/,447307.0,PX,0.004549,PX,0.0
+/currencies/idice/,431306.0,iDice,0.27454,ICE,0.0
+/currencies/freicoin/,426940.0,Freicoin,0.014319,FRC,0.0
+/currencies/sling/,425947.0,Sling,0.396564,SLING,0.0
+/currencies/cypher/,423566.0,Cypher,0.066543,CYP,0.0
+/currencies/rubies/,405351.0,Rubies,0.038919,RBIES,0.0
+/currencies/flycoin/,402185.0,Flycoin,1.91,FLY,0.0
+/currencies/btctalkcoin/,373970.0,BTCtalkcoin,0.005728,TALK,0.0
+/currencies/evotion/,351295.0,Evotion,0.110267,EVO,0.0
+/currencies/kittehcoin/,321785.0,Kittehcoin,1.3e-05,MEOW,0.0
+/currencies/firecoin/,309411.0,Firecoin,3.14,FIRE,0.0
+/currencies/wmcoin/,307250.0,WMCoin,0.026654,WMC,0.0
+/currencies/sacoin/,283695.0,SACoin,0.040431,SAC,0.0
+/currencies/yacoin/,283530.0,Yacoin,0.002358,YAC,0.0
+/currencies/bitgold/,249321.0,bitGold,1295.0,BITGOLD,0.0
+/currencies/warp/,243363.0,WARP,0.222204,WARP,0.0
+/currencies/franko/,235828.0,Franko,0.25337,FRK,0.0
+/currencies/antibitcoin/,235380.0,AntiBitcoin,0.013477,ANTI,0.0
+/currencies/dollarcoin/,216315.0,Dollarcoin,0.023753,DLC,0.0
+/currencies/bitcoin-21/,215245.0,Bitcoin 21,0.271395,XBTC21,0.0
+/currencies/songcoin/,198971.0,SongCoin,0.00611,SONG,0.0
+/currencies/300-token/,182447.0,300 Token,608.16,300,0.0
+/currencies/californium/,173705.0,Californium,0.071934,CF,0.0
+/currencies/guccionecoin/,170869.0,GuccioneCoin,0.008423,GCC,0.0
+/currencies/uro/,168812.0,Uro,0.139825,URO,0.0
+/currencies/crypto/,165469.0,Crypto,0.01314,CTO,0.0
+/currencies/destiny/,151483.0,Destiny,0.094677,DES,0.0
+/currencies/qibuck-asset/,148630.0,Qibuck Asset,0.088927,QBK,0.0
+/currencies/coexistcoin/,147283.0,CoExistCoin,0.005435,COXST,0.0
+/currencies/vector/,146738.0,VectorAI,0.00876,VEC2,0.0
+/currencies/unrealcoin/,144370.0,Unrealcoin,0.020553,URC,0.0
+/currencies/debitcoin/,143017.0,Debitcoin,0.007946,DBTC,0.0
+/currencies/beavercoin/,123855.0,BeaverCoin,0.039758,BVC,0.0
+/currencies/billarycoin/,119676.0,BillaryCoin,0.013309,BLRY,0.0
+/currencies/javascript-token/,116057.0,JavaScript Token,0.014522,JS,0.0
+/currencies/dreamcoin/,115699.0,Dreamcoin,0.04717,DRM,0.0
+/currencies/steps/,112955.0,Steps,0.006065,STEPS,0.0
+/currencies/bitquark/,109396.0,BitQuark,0.011792,BTQ,0.0
+/currencies/anarchistsprime/,107064.0,AnarchistsPrime,0.024361,ACP,0.0
+/currencies/jewels/,105396.0,Jewels,0.005222,JWL,0.0
+/currencies/asiadigicoin/,103255.0,Asiadigicoin,0.004142,ADCN,0.0
+/currencies/flavorcoin/,101358.0,FlavorCoin,0.00485,FLVR,0.0
+/currencies/pulse/,101172.0,Pulse,0.007075,PULSE,0.0
+/currencies/vip-tokens/,98409.0,VIP Tokens,0.001179,VIP,0.0
+/currencies/zayedcoin/,89408.0,Zayedcoin,0.014319,ZYD,0.0
+/currencies/mindcoin/,88213.0,MindCoin,0.005559,MND,0.0
+/currencies/quebecoin/,78328.0,Quebecoin,0.005222,QBC,0.0
+/currencies/dibcoin/,77321.0,DIBCOIN,0.015464,DIBC,0.0
+/currencies/mtmgaming/,75695.0,MTMGaming,0.025232,MTM,0.0
+/currencies/morningstar-payments/,74994.0,MorningStar,0.002285,MRNG,0.0
+/currencies/orlycoin/,74084.0,Orlycoin,0.002022,ORLY,0.0
+/currencies/impulsecoin/,71623.0,ImpulseCoin,0.003538,IMPS,0.0
+/currencies/dappster/,67386.0,DAPPSTER,0.000674,DLISK,0.0
+/currencies/bios-crypto/,66646.0,BiosCrypto,0.003201,BIOS,0.0
+/currencies/plncoin/,66217.0,PLNcoin,0.003875,PLNC,0.0
+/currencies/tagrcoin/,65144.0,TAGRcoin,0.001685,TAGR,0.0
+/currencies/genstake/,64969.0,G3N,0.008592,G3N,0.0
+/currencies/crtcoin/,64100.0,CRTCoin,0.808626,CRT,0.0
+/currencies/wild-beast-block/,63178.0,Wild Beast Block,0.352089,WBB,0.0
+/currencies/speedcash/,61312.0,Speedcash,0.234165,SCS,0.0
+/currencies/gamebet-coin/,60894.0,GameBet Coin,0.002864,GBT,0.0
+/currencies/ego/,60647.0,EGO,0.001011,EGO,0.0
+/currencies/zonecoin/,60461.0,Zonecoin,0.023416,ZNE,0.0
+/currencies/cashcoin/,56000.0,Cashcoin,0.001179,CASH,0.0
+/currencies/arbit/,54295.0,ARbit,0.006739,ARB,0.0
+/currencies/bowscoin/,53295.0,BowsCoin,0.009602,BSC,0.0
+/currencies/ponzicoin/,53093.0,PonziCoin,0.061658,PONZI,0.0
+/currencies/high-voltage/,47533.0,High Voltage,0.031813,HVCO,0.0
+/currencies/posex/,46287.0,PosEx,0.018868,PEX,0.0
+/currencies/lex4all/,41942.0,Lex4All,0.041942,LEX,0.0
+/currencies/kingn-coin/,37213.0,KingN Coin,18.53,KNC,0.0
+/currencies/letitride/,36800.0,LetItRide,0.001011,LIR,0.0
+/currencies/cabbage/,35377.0,Cabbage,0.003369,CAB,0.0
+/currencies/osmiumcoin/,32984.0,OsmiumCoin,0.036894,OS76,0.0
+/currencies/sydpak/,30588.0,SydPak,0.191206,SDP,0.0
+/currencies/frazcoin/,30522.0,Frazcoin,0.003183,FRAZ,0.0
+/currencies/ibank/,28976.0,iBank,0.006402,IBANK,0.0
+/currencies/biobar/,27307.0,BioBar,0.030829,BIOB,0.0
+/currencies/cryptoescudo/,24277.0,CryptoEscudo,0.000168,CESC,0.0
+/currencies/corethum/,20285.0,Corethum,0.008114,CRTM,0.0
+/currencies/selfiecoin/,18165.0,Selfiecoin,0.000168,SLFI,0.0
+/currencies/save-and-gain/,15127.0,Save and Gain,0.004936,SANDG,0.0
+/currencies/gbcgoldcoin/,15066.0,GBCGoldCoin,0.001326,GBC,0.0
+/currencies/sojourn/,13472.0,Sojourn,0.027766,SOJ,0.0
+/currencies/nodecoin/,13007.0,NodeCoin,0.007749,NODC,0.0
+/currencies/concoin/,10281.0,Concoin,0.013814,CONX,0.0
+/currencies/ccminer/,9133.0,CCMiner,0.002718,CCM100,0.0
+/currencies/ulatech/,8535.0,Ulatech,0.042453,ULA,0.0
+/currencies/burstocean/,7959.0,BurstOcean,0.037575,OCEAN,0.0
+/currencies/pizzacoin/,4643.0,PizzaCoin,0.003369,PIZZA,0.0
+/currencies/caliphcoin/,165.0,CaliphCoin,0.001894,CALC,0.0
+/currencies/applecoin-apw/,17.0,AppleCoin,0.000168,APW,0.0
+/currencies/atmcoin/,0.0,ATMCoin,5.85,ATMC,119077000.0
+/currencies/bibox-token/,0.0,Bibox Token,1.18,BIX,29060000.0
+/currencies/genaro-network/,0.0,Genaro Network,0.679907,GNX,28049900.0
+/currencies/nebulas-token/,0.0,Nebulas,8.48,NAS,26224000.0
+/currencies/smartmesh/,0.0,SmartMesh,0.152636,SMT,20715000.0
+/currencies/game/,0.0,Game,0.250336,GTC,13165300.0
+/currencies/bitcoin-diamond/,0.0,Bitcoin Diamond,24.26,BCD,11938600.0
+/currencies/html-coin/,0.0,HTMLCOIN,0.005063,HTML,10788900.0
+/currencies/olympus-labs/,0.0,Olympus Labs,1.45,MOT,7179740.0
+/currencies/energo/,0.0,Energo,0.200289,TSL,6651720.0
+/currencies/qlink/,0.0,QLINK,0.57456,QLC,5821900.0
+/currencies/stronghands/,0.0,StrongHands,8e-06,SHND,5121950.0
+/currencies/entcash/,0.0,ENTCash,0.174183,ENT,4185350.0
+/currencies/micromoney/,0.0,MicroMoney,0.89918,AMM,3759850.0
+/currencies/sophiatx/,0.0,SophiaTX,0.858722,SPHTX,3752440.0
+/currencies/hyper-pay/,0.0,Hyper Pay,0.100328,HPY,3240790.0
+/currencies/bitclave/,0.0,BitClave,0.211535,CAT,3224690.0
+/currencies/prochain/,0.0,ProChain,0.531222,PRO,2933230.0
+/currencies/qbao/,0.0,Qbao,1.07,QBT,2913180.0
+/currencies/infchain/,0.0,InfChain,0.032597,INF,2691180.0
+/currencies/bitcoinx/,0.0,BitcoinX [Fut...,0.065058,BCX,2486610.0
+/currencies/cappasity/,0.0,Cappasity,0.421496,CAPP,2422900.0
+/currencies/dew/,0.0,DEW,2.6,DEW,2333690.0
+/currencies/super-bitcoin/,0.0,Super Bitcoin,150.33,SBTC,2046890.0
+/currencies/maker/,0.0,Maker,1177.0,MKR,1930130.0
+/currencies/comsa-eth/,0.0,COMSA [ETH],2.63,CMS,1913640.0
+/currencies/naga/,0.0,NAGA,2.53,NGC,1875030.0
+/currencies/poly-ai/,0.0,POLY AI,7.7,AI,1533710.0
+/currencies/viuly/,0.0,Viuly,0.033568,VIU,1476770.0
+/currencies/fargocoin/,0.0,Fargocoin,9.49,FRGC,1403060.0
+/currencies/segwit2x/,0.0,SegWit2x [Fut...,194.94,B2X,1386580.0
+/currencies/htmlcoin/,0.0,HTML5COIN,0.004885,HTML5,1252010.0
+/currencies/tezos/,0.0,Tezos (Pre-La...,5.42,XTZ,1156360.0
+/currencies/ugain/,0.0,UGAIN,0.041388,GAIN,1083460.0
+/currencies/lltoken/,0.0,LLToken,0.282997,LLT,1017460.0
+/currencies/clubcoin/,0.0,ClubCoin,3.08,CLUB,975471.0
+/currencies/ug-token/,0.0,UG Token,1.17,UGT,941162.0
+/currencies/comsa-xem/,0.0,COMSA [XEM],2.68,CMS,940071.0
+/currencies/dimcoin/,0.0,DIMCOIN,0.056175,DIM,883446.0
+/currencies/ace/,0.0,Ace,0.780179,ACE,854033.0
+/currencies/embercoin/,0.0,EmberCoin,6.3e-05,EMB,779100.0
+/currencies/win-coin/,0.0,WINCOIN,1.34,WC,759376.0
+/currencies/medishares/,0.0,MediShares,0.162692,MDS,749281.0
+/currencies/homeblockcoin/,0.0,HomeBlockCoin,6.01,HBC,719666.0
+/currencies/filecoin/,0.0,Filecoin [Fut...,22.81,FIL,647148.0
+/currencies/ignis/,0.0,Ignis,1.5,IGNIS,641178.0
+/currencies/bestchain/,0.0,BestChain,0.062136,BEST,578921.0
+/currencies/bitair/,0.0,Bitair,0.015186,BTCA,537880.0
+/currencies/bigone-token/,0.0,BigONE Token,7.0,BIG,527490.0
+/currencies/sphre-air/,0.0,Sphre AIR ,0.336667,XID,381696.0
+/currencies/tokugawa/,0.0,Tokugawa,4.89,TOK,346559.0
+/currencies/vpncoin/,0.0,VPNCoin,0.013983,VASH,292257.0
+/currencies/escoro/,0.0,Escroco,3.56,ESC,275355.0
+/currencies/infinity-economics/,0.0,Infinity Econ...,0.022406,XIN,272540.0
+/currencies/ea-coin/,0.0,EA Coin,1.67,EAG,266508.0
+/currencies/bitsoar/,0.0,BitSoar,0.149933,BSR,256663.0
+/currencies/golos-gold/,0.0,Golos Gold,0.334131,GBG,235958.0
+/currencies/lightning-bitcoin/,0.0,Lightning Bit...,152.68,LBTC,233825.0
+/currencies/magiccoin/,0.0,MagicCoin,4.11,MAGE,216472.0
+/currencies/herocoin/,0.0,HEROcoin,0.111251,PLAY,200356.0
+/currencies/animecoin/,0.0,Animecoin,0.003688,ANI,197015.0
+/currencies/cryptopay/,0.0,Cryptopay,0.290433,CPAY,186227.0
+/currencies/gold-reward-token/,0.0,GOLD Reward T...,0.617583,GRX,175850.0
+/currencies/united-bitcoin/,0.0,United Bitcoin,294.97,UBTC,159912.0
+/currencies/zengold/,0.0,ZenGold,0.122979,ZENGOLD,159074.0
+/currencies/uquid-coin/,0.0,Uquid Coin,1.28,UQC,141799.0
+/currencies/sisa/,0.0,SISA,0.042554,SISA,141204.0
+/currencies/bt1-cst/,0.0,BT1 [CST],17794.9,BT1,135380.0
+/currencies/blockcdn/,0.0,BlockCDN,0.235861,BCDN,132361.0
+/currencies/bitserial/,0.0,BitSerial,1.36,BTE,124026.0
+/currencies/kubera-coin/,0.0,Kubera Coin,0.065701,KBR,100319.0
+/currencies/strikebitclub/,0.0,StrikeBitClub,0.392858,SBC,93695.0
+/currencies/techshares/,0.0,TechShares,0.596139,THS,82095.0
+/currencies/minex/,0.0,Minex,0.041062,MINEX,74844.0
+/currencies/davorcoin/,0.0,DavorCoin,87.77,DAV,74247.0
+/currencies/mergecoin/,0.0,MergeCoin,0.043464,MGC,71805.0
+/currencies/starbase/,0.0,Starbase,0.183774,STAR,70222.0
+/currencies/exrnchain/,0.0,EXRNchain,7.8e-05,EXRN,63496.0
+/currencies/royalties/,0.0,Royalties,0.000925,XRY,58526.0
+/currencies/safe-exchange-coin/,0.0,Safe Exchange...,0.033198,SAFEX,57864.0
+/currencies/pylon-network/,0.0,Pylon Network,27.82,PYLNT,55830.0
+/currencies/ox-fina/,0.0,OX Fina,0.005509,OX,55647.0
+/currencies/storjcoin-x/,0.0,Storjcoin X,1.39,SJCX,51853.0
+/currencies/peepcoin/,0.0,PeepCoin,6.6e-05,PCN,51468.0
+/currencies/karmacoin/,0.0,Karmacoin,0.000168,KARMA,50102.0
+/currencies/wandx/,0.0,WandX,0.625431,WAND,48234.0
+/currencies/wi-coin/,0.0,Wi Coin,0.06598,WIC,44349.0
+/currencies/sigmacoin/,0.0,SIGMAcoin,0.090135,SIGMA,41465.0
+/currencies/msd/,0.0,MSD,0.007243,MSD,36604.0
+/currencies/infinitecoin/,0.0,Infinitecoin,0.000337,IFC,35271.0
+/currencies/matryx/,0.0,Matryx,1.35,MTX,33394.0
+/currencies/neo-gold/,0.0,NEO GOLD,0.009792,NEOG,33357.0
+/currencies/ties-network/,0.0,TIES Network,0.166104,TIE,32323.0
+/currencies/fidentiax/,0.0,FidentiaX,0.466124,FDX,31047.0
+/currencies/peacecoin/,0.0,Peacecoin,0.021563,PEC,29283.0
+/currencies/high-gain/,0.0,High Gain,0.00219,HIGH,29227.0
+/currencies/turbocoin/,0.0,TurboCoin,0.000168,TURBO,27284.0
+/currencies/terranova/,0.0,TerraNova,126.45,TER,25462.0
+/currencies/gaycoin/,0.0,GAY Money,0.301081,GAY,25236.0
+/currencies/suretly/,0.0,Suretly,9.16,SUR,24876.0
+/currencies/compcoin/,0.0,Compcoin,16.85,CMP,23435.0
+/currencies/batcoin/,0.0,BatCoin,3.2e-05,BAT,22304.0
+/currencies/boscoin/,0.0,BOScoin,2.85,BOS,19519.0
+/currencies/bt2-cst/,0.0,BT2 [CST],386.97,BT2,17689.0
+/currencies/adcoin/,0.0,AdCoin,0.178919,ACC,16542.0
+/currencies/protean/,0.0,Protean,8.3e-05,PRN,14491.0
+/currencies/anryze/,0.0,ANRYZE,0.030406,RYZ,14062.0
+/currencies/wowcoin/,0.0,Wowcoin,0.000362,WOW,14020.0
+/currencies/litecoin-gold/,0.0,LiteCoin Gold,0.008738,LTG,13985.0
+/currencies/marxcoin/,0.0,MarxCoin,0.004204,MARX,13974.0
+/currencies/aces/,0.0,Aces,0.000553,ACES,13963.0
+/currencies/everus/,0.0,Everus,0.401439,EVR,13325.0
+/currencies/dynamiccoin/,0.0,DynamicCoin,0.009116,DMC,13025.0
+/currencies/encryptotel-eth/,0.0,EncryptoTel [...,0.259318,ETT,12491.0
+/currencies/soma/,0.0,Soma,0.368672,SCT,12121.0
+/currencies/skeincoin/,0.0,Skeincoin,0.119609,SKC,11254.0
+/currencies/edrcoin/,0.0,EDRCoin,0.128243,EDRC,11060.0
+/currencies/plexcoin/,0.0,PlexCoin,0.027711,PLX,10489.0
+/currencies/topcoin/,0.0,TopCoin,0.003722,TOP,8980.0
+/currencies/phantomx/,0.0,Phantomx,0.21715,PNX,8904.0
+/currencies/coupecoin/,0.0,Coupecoin,6.7e-05,COUPE,8783.0
+/currencies/francs/,0.0,Francs,0.103342,FRN,8283.0
+/currencies/chronologic/,0.0,Chronologic,2.72,DAY,7938.0
+/currencies/ethereum-lite/,0.0,Ethereum Lite,0.371331,ELITE,7626.0
+/currencies/ur/,0.0,UR,0.00452,UR,7607.0
+/currencies/shellcoin/,0.0,ShellCoin,0.036051,SHELL,7209.0
+/currencies/cubits/,0.0,Cubits,0.00633,QBT,6505.0
+/currencies/namocoin/,0.0,NamoCoin,0.00141,NAMO,6262.0
+/currencies/alphabitcoinfund/,0.0,Alphabit,78.7,ABC,6112.0
+/currencies/fonziecoin/,0.0,Fonziecoin,0.004885,FONZ,6073.0
+/currencies/btcmoon/,0.0,BTCMoon,0.014521,BTCM,5947.0
+/currencies/musiconomi/,0.0,Musiconomi,0.175859,MCI,5447.0
+/currencies/xtd-coin/,0.0,XTD Coin,0.000337,XTD,5360.0
+/currencies/safe-trade-coin/,0.0,Safe Trade Coin,0.000337,XSTC,5286.0
+/currencies/wink/,0.0,Wink,0.001782,WINK,5035.0
+/currencies/akuya-coin/,0.0,Akuya Coin,0.03066,AKY,4915.0
+/currencies/pluscoin/,0.0,PlusCoin,0.001064,PLC,4267.0
+/currencies/zilbercoin/,0.0,Zilbercoin,0.078784,ZBC,4126.0
+/currencies/donationcoin/,0.0,Donationcoin,0.004043,DON,4028.0
+/currencies/sharkcoin/,0.0,Sharkcoin,0.008559,SAK,3973.0
+/currencies/t-coin/,0.0,T-coin,0.000339,TCOIN,3938.0
+/currencies/rabbitcoin/,0.0,RabbitCoin,3.4e-05,RBBT,3850.0
+/currencies/pabyosi-coin-special/,0.0,Pabyosi Coin ...,0.172042,PCS,3650.0
+/currencies/bitcedi/,0.0,Bitcedi,0.014151,BXC,3619.0
+/currencies/tellurion/,0.0,Tellurion,0.001614,TELL,3391.0
+/currencies/bitbase/,0.0,Bitbase,0.003875,BTBc,3221.0
+/currencies/sakuracoin/,0.0,Sakuracoin,0.008267,SKR,3001.0
+/currencies/huncoin/,0.0,Huncoin,0.006065,HNC,2993.0
+/currencies/vulcano/,0.0,Vulcano,0.010093,VULC,2896.0
+/currencies/pokecoin/,0.0,PokeCoin,0.000505,POKE,2886.0
+/currencies/elacoin/,0.0,Elacoin,0.274764,ELC,2885.0
+/currencies/iquant/,0.0,iQuant,0.310526,IQT,2873.0
+/currencies/deuscoin/,0.0,DeusCoin,0.320081,DEUS,2765.0
+/currencies/flappycoin/,0.0,FlappyCoin,1.6e-05,FLAP,2762.0
+/currencies/safecoin/,0.0,SafeCoin,0.000168,SFE,2637.0
+/currencies/zsecoin/,0.0,ZSEcoin,0.061697,ZSE,2608.0
+/currencies/fireflycoin/,0.0,FireFlyCoin,0.000337,FFC,2549.0
+/currencies/darklisk/,0.0,DarkLisk,0.003538,DISK,2528.0
+/currencies/shacoin/,0.0,SHACoin,0.004212,SHA,2447.0
+/currencies/macro1/,0.0,Macro,1.52,MCR,2415.0
+/currencies/dimoncoin/,0.0,DimonCoin,2.2e-05,FUDD,2262.0
+/currencies/antimatter/,0.0,Antimatter,0.000337,ANTX,2255.0
+/currencies/granitecoin/,0.0,Granite,0.039084,GRN,2018.0
+/currencies/golfcoin/,0.0,Golfcoin,0.000337,GOLF,1997.0
+/currencies/eventchain/,0.0,EventChain,0.37876,EVC,1977.0
+/currencies/president-trump/,0.0,President Trump,0.017743,PRES,1919.0
+/currencies/prismchain/,0.0,PrismChain,0.002695,PRM,1919.0
+/currencies/irishcoin/,0.0,IrishCoin,0.009434,IRL,1909.0
+/currencies/halloween-coin/,0.0,Halloween Coin,0.000781,HALLO,1802.0
+/currencies/rcoin/,0.0,Rcoin,0.000168,RCN,1721.0
+/currencies/wearesatoshi/,0.0,WeAreSatoshi,0.008255,WSX,1697.0
+/currencies/corion/,0.0,CORION,0.457042,COR,1694.0
+/currencies/bitcoin2x/,0.0,Bitcoin2x,0.009013,BTC2X,1632.0
+/currencies/cash-poker-pro/,0.0,Cash Poker Pro,0.070443,CASH,1607.0
+/currencies/glasscoin/,0.0,GlassCoin,0.508424,GLS,1565.0
+/currencies/landcoin/,0.0,LandCoin,0.013831,LDCN,1556.0
+/currencies/cyder/,0.0,Cyder,0.001516,CYDER,1501.0
+/currencies/qora/,0.0,Qora,0.307366,QORA,1440.0
+/currencies/magnetcoin/,0.0,Magnetcoin,1.26,MAGN,1306.0
+/currencies/birds/,0.0,Birds,0.000674,BIRDS,1280.0
+/currencies/bitcoin-silver/,0.0,Bitcoin Silver,0.008011,BTCS,1271.0
+/currencies/uncoin/,0.0,UNCoin,0.000168,UNC,1270.0
+/currencies/moneta2/,0.0,Moneta,0.000842,MONETA,1238.0
+/currencies/fapcoin/,0.0,FAPcoin,0.001382,FAP,1155.0
+/currencies/quotient/,0.0,Quotient,0.010782,XQN,1123.0
+/currencies/digital-bullion-gold/,0.0,Digital Bulli...,0.001853,DBG,1109.0
+/currencies/uahpay/,0.0,UAHPay,0.000141,UAHPAY,1068.0
+/currencies/teamup/,0.0,TeamUp,0.000505,TEAM,1063.0
+/currencies/triaconta/,0.0,Triaconta,34.05,TRIA,1030.0
+/currencies/todaycoin/,0.0,TodayCoin,0.005222,TODAY,1017.0
+/currencies/sportscoin/,0.0,SportsCoin,0.002695,SPORT,963.0
+/currencies/india-coin/,0.0,India Coin,0.000842,INDIA,952.0
+/currencies/universalroyalcoin/,0.0,UniversalRoya...,0.001544,UNRC,896.0
+/currencies/netbit/,0.0,netBit,0.016022,NBIT,870.0
+/currencies/first-bitcoin/,0.0,First Bitcoin,0.018194,BIT,855.0
+/currencies/egold/,0.0,eGold,0.022498,EGOLD,855.0
+/currencies/avoncoin/,0.0,Avoncoin,0.000842,ACN,800.0
+/currencies/yescoin/,0.0,Yescoin,0.000168,YES,765.0
+/currencies/pinkdog/,0.0,PinkDog,0.000674,PDG,726.0
+/currencies/natcoin/,0.0,Natcoin,0.054066,NTC,689.0
+/currencies/runners/,0.0,Runners,0.000505,RUNNERS,636.0
+/currencies/bastonet/,0.0,Bastonet,0.001179,BSN,625.0
+/currencies/eusd/,0.0,eUSD,0.000351,EUSD,623.0
+/currencies/goldmaxcoin/,0.0,GoldMaxCoin,0.023613,GMX,587.0
+/currencies/alpacoin/,0.0,AlpaCoin,0.020393,APC,563.0
+/currencies/avatarcoin/,0.0,AvatarCoin,0.057109,AV,557.0
+/currencies/lepen/,0.0,LePen,0.000139,LEPEN,526.0
+/currencies/cheapcoin/,0.0,Cheapcoin,0.000842,CHEAP,0.0
+/currencies/mavro/,0.0,Mavro,0.084737,MAVRO,0.0
+/currencies/goldunioncoin/,0.0,GoldUnionCoin,0.049528,GUC,0.0
+/currencies/blockchain-index/,0.0,Blockchain Index,6.11,BLX,0.0
+/currencies/aseancoin/,0.0,Aseancoin,0.013477,ASN,0.0
+/currencies/bubble/,0.0,Bubble,0.03066,BUB,0.0
+/currencies/stex/,0.0,STEX,1.16,STEX,0.0
+/currencies/ibtc/,0.0,iBTC,0.004897,IBTC,0.0
+/currencies/pirate-blocks/,0.0,Pirate Blocks,0.002807,SKULL,0.0
+/currencies/bitok/,0.0,Bitok,0.000168,BITOK,0.0
+/currencies/primulon/,0.0,Primulon,0.000399,PRIMU,0.0
+/currencies/topaz/,0.0,Topaz Coin,0.774933,TOPAZ,0.0
+/currencies/hodl-bucks/,0.0,HODL Bucks,0.183626,HDLB,0.0
+/currencies/regacoin/,0.0,Regacoin,0.003032,REGA,0.0
+/currencies/mmxvi/,0.0,MMXVI,0.005222,MMXVI,0.0
+/currencies/infinity-pay/,0.0,Infinity Pay,0.001998,IPY,0.0
+/currencies/dutch-coin/,0.0,Dutch Coin,0.000842,DUTCH,0.0
+/currencies/fazzcoin/,0.0,Fazzcoin,0.033996,FAZZ,0.0
+/currencies/sand-coin/,0.0,Sand Coin,0.816218,SND,0.0
+/currencies/dashs/,0.0,Dashs,0.054414,DASHS,0.0
+/currencies/lathaan/,0.0,LAthaan,0.000674,LTH,0.0
+/currencies/cycling-coin/,0.0,Cycling Coin,0.001685,CYC,0.0
+/currencies/ebit/,0.0,eBIT,0.004836,EBIT,0.0
+/currencies/cybercoin/,0.0,CyberCoin,0.000337,CC,0.0
+/currencies/x2/,0.0,X2,0.000505,X2,0.0
+/currencies/kashhcoin/,0.0,KashhCoin,0.000168,KASHH,0.0
+/currencies/hyper/,0.0,Hyper,0.097709,HYPER,0.0
+/currencies/wa-space/,0.0,WA Space,0.019373,WA,0.0
+/currencies/omicron/,0.0,Omicron,0.21277,OMC,0.0
+/currencies/blazercoin/,0.0,BlazerCoin,0.00178,BLAZR,0.0
+/currencies/rhfcoin/,0.0,RHFCoin,0.000842,RHFC,0.0
+/currencies/dubstep/,0.0,Dubstep,0.002695,DUB,0.0
+/currencies/bitfid/,0.0,BITFID,0.139488,FID,0.0
+/currencies/yellow-token/,0.0,Yellow Token,0.007512,YEL,0.0
+/currencies/rublebit/,0.0,RubleBit,0.006739,RUBIT,0.0
+/currencies/mobilecash/,0.0,MobileCash,0.000842,MBL,0.0
+/currencies/utacoin/,0.0,UtaCoin,0.001011,UTA,0.0
+/currencies/betacoin/,0.0,BetaCoin,0.005054,BET,0.0
+/currencies/deltacredits/,0.0,DeltaCredits,0.337938,DCRE,0.0
+/currencies/royalcoin/,0.0,RoyalCoin,0.005559,ROYAL,0.0
+/currencies/xaucoin/,0.0,Xaucoin,0.080694,XAU,0.0
+/currencies/9coin/,0.0,9COIN,0.003706,9COIN,0.0
+/currencies/invisiblecoin/,0.0,InvisibleCoin,0.705189,IVZ,0.0
+/currencies/happy-creator-coin/,0.0,Happy Creator...,0.000842,HCC,0.0
+/currencies/bitalphacoin/,0.0,BitAlphaCoin,0.004717,BAC,0.0
+/currencies/facecoin/,0.0,Facecoin,0.005017,FC,0.0
+/currencies/moneycoin/,0.0,MoneyCoin,0.000168,MONEY,0.0
+/currencies/cashme/,0.0,Cashme,0.000337,CME,0.0
+/currencies/tattoocoin-limited/,0.0,Tattoocoin (L...,1.61,TLE,0.0
+/currencies/snakeeyes/,0.0,SnakeEyes,0.123996,SNAKE,0.0
+/currencies/gameleaguecoin/,0.0,GameLeagueCoin,0.012466,GML,0.0
+/currencies/axiom/,0.0,Axiom,0.023753,AXIOM,0.0
+/currencies/paypeer/,0.0,PayPeer,0.000168,PAYP,0.0
+/currencies/futcoin/,0.0,FutCoin,0.002864,FUTC,0.0
+/currencies/the-vegan-initiative/,0.0,The Vegan Ini...,0.000674,XVE,0.0
+/currencies/first-bitcoin-capital/,0.0,First Bitcoin...,0.1656,BITCF,0.0
+/currencies/bongger/,0.0,Bongger,0.002215,BGR,0.0
+/currencies/rupaya-old/,0.0,Rupaya [OLD],0.006402,RUPX,0.0
+/currencies/hyper-tv/,0.0,Hyper TV,0.001102,HYTV,0.0
+/currencies/richcoin/,0.0,RichCoin,0.010445,RICHX,0.0
+/currencies/faceblock/,0.0,Faceblock,0.003808,FBL,0.0
+/currencies/10mtoken/,0.0,10M Token,0.004256,10MT,0.0
+/currencies/trickycoin/,0.0,TrickyCoin,0.008423,TRICK,0.0
+/currencies/cbd-crystals/,0.0,CBD Crystals,0.002527,CBD,0.0
+/currencies/eggcoin/,0.0,EggCoin,0.026112,EGG,0.0
+/currencies/thecreed/,0.0,TheCreed,0.000505,TCR,0.0
+/currencies/xde-ii/,0.0,XDE II,4.35,XDE2,0.0
+/currencies/opescoin/,0.0,Opescoin,0.00219,OPES,0.0
+/currencies/frankywillcoin/,0.0,FrankyWillCoin,0.00438,FRWC,0.0
+/currencies/psilocybin/,0.0,Psilocybin,0.024259,PSY,0.0
+/currencies/global-business-revolution/,0.0,Global Busine...,0.000505,GBRC,0.0
+/currencies/voyacoin/,0.0,Voyacoin,1.0,VOYA,0.0
+/currencies/operand/,0.0,Operand,0.001969,OP,0.0
+/currencies/ocow/,0.0,OCOW,1.7e-05,OCOW,0.0
+/currencies/teslacoilcoin/,0.0,TeslaCoilCoin,2.33,TESLA,0.0
+/currencies/linkedcoin/,0.0,LinkedCoin,0.000499,LKC,0.0
+/currencies/international-diamond/,0.0,International...,0.004827,XID,0.0
+/currencies/president-johnson/,0.0,President Joh...,0.133862,GARY,0.0
+/currencies/lazaruscoin/,0.0,Lazaruscoin,0.001338,LAZ,0.0
+/currencies/teracoin/,0.0,TeraCoin,0.000131,TERA,0.0
+/currencies/internet-of-things/,0.0,Internet of T...,1671.35,XOT,0.0
+/currencies/aidos-kuneen/,0.0,Aidos Kuneen,32.68,ADK,0.0
+/currencies/peoplecoin/,0.0,PeopleCoin,0.000168,MEN,0.0
+/currencies/eltc/,0.0,eLTC,0.000369,ELTC2,0.0
+/currencies/xylo/,0.0,XYLO,0.337133,XYLO,0.0
+/currencies/santa-coin/,0.0,Santa Coin,0.402641,STC,0.0
+/currencies/madcoin/,0.0,Madcoin,0.590684,MDC,0.0
+/currencies/casinocoin/,0.0,CasinoCoin,0.508835,CSC,0.0
+/currencies/bitcoin-unlimited/,0.0,Bitcoin Unlim...,53.75,BTU,0.0
+/currencies/swapcoin/,0.0,Swapcoin,0.151184,SWP,0.0
+/currencies/qcash/,0.0,QCash,0.0,QC,0.0
+/currencies/farstcoin/,0.0,Farstcoin,0.0,FRCT,0.0
